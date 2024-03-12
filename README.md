@@ -27,3 +27,12 @@ Note: If output video does not run in a software, pleasure run it using VLC MEdi
 --------------------------------------------------------------------------------------------------------
 
 Github repo --> https://github.com/piyush-g0enka/ENPM661_project2/tree/main
+
+--------------------------------------------------------------------------------------------------------
+
+Dependency
+
+1. numpy
+2. math
+3. opencv
+4. queue
