@@ -9,11 +9,15 @@ $ python3 dijkstra_piyush_goenka.py
 --------------------------------------------------------------------------------------------------------
 
 Provide input points with a space between x and y coordinates. 
+
 For example:
 
 $Please input the start point coordinates [x y] separated by a space: 950 300
+
 $Start point recorded!
+
 $Please input the goal point coordinates [x y] separated by a space: 20 150
+
 $Goal point recorded!
 
 --------------------------------------------------------------------------------------------------------
