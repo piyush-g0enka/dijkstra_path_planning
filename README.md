@@ -22,7 +22,7 @@ $Goal point recorded!
 
 --------------------------------------------------------------------------------------------------------
 
-Note: If output video does not run in a software, pleasure run it using VLC MEdia Player.
+Note: If output video does not run in a software, please run it using VLC MEdia Player.
 
 --------------------------------------------------------------------------------------------------------
 
